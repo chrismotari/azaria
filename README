@@ -19,3 +19,33 @@ Welcome to the Azaria Travels Airline Booking Company's website repository! This
 ## Installation
 
 1. Clone the repository using the following command:
+   git clone https://github.com/your-username/Azaria-website.git
+
+2. Open the project in your preferred code editor.
+3. Launch the `index.html` file in your web browser to view the website.
+
+## Usage
+
+The Azaria website is designed to provide an intuitive interface for users to easily book flights, manage reservations, and access important information about Azaria's services. Make sure to integrate any necessary backend functionalities to ensure seamless communication with the website.
+
+## Contributing
+
+We welcome contributions from the community. To contribute to the project, please follow these steps:
+
+1. Fork the repository.
+2. Create your feature branch: `git checkout -b feature/YourFeature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin feature/YourFeature`
+5. Submit a pull request.
+
+Please ensure that your pull request follows the code standards and practices maintained in this project.
+
+## License
+
+This project is licensed under the [Insert License]. For more details, see the LICENSE file.
+
+## Contact
+
+If you have any questions or suggestions regarding the project, please feel free to contact us at [insert email address].
+
+Thank you for your interest in the Azaria Airline Booking Company's website repository!

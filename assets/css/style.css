@@ -1785,7 +1785,7 @@ body.visible-sidebar{
   text-transform: none;
   font-family: 'Reey_Regular', cursive;
   font-weight: 400;
-  color: var(--primary-color);
+  color: var(--original-color);
   margin: 0 0 10px;
 }
 

@@ -660,7 +660,7 @@ form label.error{
 
 .site-form form .f-btn:hover{
   background: var(--dark-gray-gray);
-  color: #fff;
+  color: var(--primary-color);
   box-shadow: 0 0 5px 0 var(--primary-color);
 }
 
@@ -1691,7 +1691,7 @@ body.visible-sidebar{
   position: relative;
   display: block;
   background: #fff;
-  padding: 22px 170px 18px 24px;
+  padding: 22px 17px 18px 24px;
   margin-right: -280px;
   box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.05);
   border-radius: 5px;
@@ -4458,7 +4458,7 @@ body.visible-sidebar{
   position: relative;
   display: block;
   background: #fff;
-  padding: 25px 170px 15px 24px;
+  padding: 25px 17px 15px 24px;
   box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.05);
   border-radius: 5px;
   z-index: 5;

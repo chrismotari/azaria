@@ -1,4 +1,4 @@
-/* Travilo */
+/*  Azaria */
 
 @import url('sections/variables.css');
 @import url('sections/fonts.css');
@@ -1667,7 +1667,7 @@ body.visible-sidebar{
   top: -75px;
 }
 
-.banner-section .left-col .travilo-text{
+.banner-section .left-col .azaria-text{
   position: relative;
   display: block;
   font-size: 20px;
@@ -1801,7 +1801,7 @@ body.visible-sidebar{
   z-index: 1;
 }
 
-.title-box .travilo-text{
+.title-box .azaria-text{
   position: relative;
   display: block;
   font-weight: 400;
@@ -2866,7 +2866,7 @@ body.visible-sidebar{
   margin-bottom: 12px;
 }
 
-.why-us .f-block-two .travilo-text{
+.why-us .f-block-two .azaria-text{
   position: relative;
 }
 
@@ -3142,7 +3142,7 @@ body.visible-sidebar{
   max-height: 48px;
 }
 
-.testi-block-one .travilo-text{
+.testi-block-one .azaria-text{
   position: relative;
   font-size: 18px;
   color: var(--medium-gray-color);
@@ -4076,7 +4076,7 @@ body.visible-sidebar{
   position: relative;
 }
 
-.main-footer .app-info .travilo-text{
+.main-footer .app-info .azaria-text{
   position: relative;
   margin-bottom: 25px;
 }
@@ -4245,7 +4245,7 @@ body.visible-sidebar{
     transition:all 1000ms ease 1000ms;
 }
 
-.banner-two .slide-item .travilo-text{
+.banner-two .slide-item .azaria-text{
   position: relative;
   display: block;
   font-size: 24px;
@@ -4261,7 +4261,7 @@ body.visible-sidebar{
   transform:translateY(30px);
 }
 
-.banner-two .swiper-slide-active .travilo-text{
+.banner-two .swiper-slide-active .azaria-text{
     opacity:1;
     visibility: visible;
     -webkit-transform:translate(0);
@@ -5286,7 +5286,7 @@ body.visible-sidebar{
   margin-bottom: 15px;
 }
 
-.why-us-two .f-block-three .travilo-text{
+.why-us-two .f-block-three .azaria-text{
   position: relative;
 }
 
@@ -5443,7 +5443,7 @@ body.visible-sidebar{
 
 .why-us-two .get-help .title-box .subtitle,
 .why-us-two .get-help .title-box h2,
-.why-us-two .get-help .title-box .travilo-text{
+.why-us-two .get-help .title-box .azaria-text{
   color: #fff;
 }
 
@@ -5458,7 +5458,7 @@ body.visible-sidebar{
   top: -50px;
 }
 
-.why-us-two .get-help .title-box .travilo-text{
+.why-us-two .get-help .title-box .azaria-text{
   position: relative;
   padding-top: 15px;
 }
@@ -5559,7 +5559,7 @@ body.visible-sidebar{
   color: var(--secondary-color);
 }
 
-.testi-block-two .travilo-text{
+.testi-block-two .azaria-text{
   position: relative;
   font-style: italic;
   color: var(--medium-gray-color);
@@ -5912,7 +5912,7 @@ body.visible-sidebar{
   color: var(--primary-color);
 }
 
-.news-block-three .travilo-text{
+.news-block-three .azaria-text{
   position: relative;
   padding-top: 20px;
   line-height: 1.6em;
@@ -6284,7 +6284,7 @@ body.visible-sidebar{
   margin-bottom: 20px;
 }
 
-.our-speciality .feature .travilo-text{
+.our-speciality .feature .azaria-text{
   position: relative;
 }
 
@@ -7282,7 +7282,7 @@ body.visible-sidebar{
   color: var(--primary-color);
 }
 
-.package-block-two .content-box .travilo-text{
+.package-block-two .content-box .azaria-text{
   position: relative;
   line-height: 1.6em;
   padding-bottom: 20px;
@@ -7428,7 +7428,7 @@ body.visible-sidebar{
   -o-transition:all 0.3s ease;
 }
 
-.sidebar-container .posts-widget .post .travilo-text{
+.sidebar-container .posts-widget .post .azaria-text{
   position:relative;
   top:0px;
   font-size:18px;
@@ -7439,7 +7439,7 @@ body.visible-sidebar{
   line-height:24px;
 }
 
-.sidebar-container .posts-widget .post .travilo-text a{
+.sidebar-container .posts-widget .post .azaria-text a{
   color:var(--dark-gray-gray);
   transition:all 0.3s ease;
   -moz-transition:all 0.3s ease;
@@ -7676,7 +7676,7 @@ body.visible-sidebar{
   padding-right: 20px;
 }
 
-.destination-single .content-col .travilo-text{
+.destination-single .content-col .azaria-text{
   line-height: 1.6em;
 }
 
@@ -8181,7 +8181,7 @@ body.visible-sidebar{
   margin-bottom: 22px;
 }
 
-.sidebar-container .author-box .travilo-text{
+.sidebar-container .author-box .azaria-text{
   position: relative;
   line-height: 1.6em;
   margin-bottom: 25px;
@@ -8315,7 +8315,7 @@ body.visible-sidebar{
   display: block;
 }
 
-.sidebar-container .comments .comment-box .travilo-text{
+.sidebar-container .comments .comment-box .azaria-text{
   position: relative;
   line-height: 1.8em;
   margin-bottom: 30px;
@@ -8514,7 +8514,7 @@ body.visible-sidebar{
   line-height: 1.6em;
 }
 
-.dsp-container .travilo-text,
+.dsp-container .azaria-text,
 .dsp-container p{
   line-height: 1.65em;
 }
@@ -8894,7 +8894,7 @@ body.visible-sidebar{
   padding-top: 10px;
 }
 
-.tp-accordion .block .content .travilo-text{
+.tp-accordion .block .content .azaria-text{
   position: relative;
   line-height: 1.65em;
 }
@@ -9035,12 +9035,12 @@ body.visible-sidebar{
   display: block;
 }
 
-.faqs-accordion .block .content .travilo-text{
+.faqs-accordion .block .content .azaria-text{
   position: relative;
   line-height: 1.65em;
 }
 
-.faqs-accordion .block .content .travilo-text p{
+.faqs-accordion .block .content .azaria-text p{
   margin-bottom: 5px;
 }
 
@@ -9256,7 +9256,7 @@ body.visible-sidebar{
   margin-bottom: 20px;
 }
 
-.t-reviews .reviews .rev-box .travilo-text{
+.t-reviews .reviews .rev-box .azaria-text{
   position: relative;
   line-height: 1.6em;
   margin-bottom: 35px;
@@ -9791,7 +9791,7 @@ body.visible-sidebar{
   margin-bottom: 25px;
 }
 
-.dsp-container .get-help-widget .travilo-text{
+.dsp-container .get-help-widget .azaria-text{
   line-height: 1.65em;
   margin-bottom: 50px;
 }
@@ -10472,7 +10472,7 @@ body.visible-sidebar{
   margin-bottom: 10px;
 }
 
-.rooms-avail-box .type-block .travilo-text{
+.rooms-avail-box .type-block .azaria-text{
   font-size: 16px;
   margin-bottom: 20px;
 }
